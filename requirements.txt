@@ -1,0 +1,6 @@
+nltk==3.8.1
+python-docx>=0.8.11
+PyMuPDF>=1.22.0
+pandas>=1.5.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
